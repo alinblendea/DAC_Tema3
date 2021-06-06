@@ -1,3 +1,8 @@
 <resources>
-    <string name="app_name">Tema3</string>
+    <string name="app_name">Tema 3</string>
+    <string name="add_update">Add/Update</string>
+    <string name="delete">Delete</string>
+    <string name="hint_title">Book Title</string>
+    <string name="hint_author">Book Author</string>
+    <string name="hint_description">Book Description</string>
 </resources>

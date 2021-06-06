@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="default_space">14dp</dimen>
+    <dimen name="default_space_half">10dp</dimen>
+    <dimen name="medium_space">30dp</dimen>
+    <dimen name="big_space">50dp</dimen>
+    <dimen name="title_size">30sp</dimen>
+    <dimen name="subtitle_size">22sp</dimen>
+    <dimen name="text_size">15sp</dimen>
+</resources>
